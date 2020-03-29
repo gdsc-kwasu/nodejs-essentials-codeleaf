@@ -10,7 +10,7 @@ We quickly wanna catch and detect error while writing our code, and given the St
 #### Prettier
 Use prettier to have code formatting according to the style guide. And ensure that you have the right and complete configuration for your prettier. You can use the [Prettier Playground](https://prettier.io/playground/) to experiment and generate your config options. 
 
-**NOTE**: All of this three things I have mentioned above works and integrate nicely with one another. Make sure one is not hindering the other. And in your project, you will not be writing **React**, so I do not expect you to have the ESLint config of **eslint-config-airbnb**, rather **eslint-config-airbnb-base**. All these tiny things matters.
+> **NOTE**: All of this three things I have mentioned above works and integrate nicely with one another. Make sure one is not hindering the other. And in your project, you will not be writing **React**, so I do not expect you to have the ESLint config of **eslint-config-airbnb**, rather **eslint-config-airbnb-base**. All these tiny things matters.
 
 
 ### What will the Project do?
