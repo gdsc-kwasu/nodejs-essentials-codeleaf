@@ -1,5 +1,5 @@
 {
-    "extends": ["eslint:recommended", "prettier"],
+    "extends": ["airbnb-base", "prettier"],
     "parserOptions": {
         "ecmaVersion": 2018
     },
@@ -10,6 +10,9 @@
     "rules": {
         "no-var": "error",
         "semi": "off",
-        "func-style": "error"
+        "func-style": "error",
+        "no-console": "off",
+        "no-unused-expressions": "off",
+        "no-plusplus": "off"
     }
 }

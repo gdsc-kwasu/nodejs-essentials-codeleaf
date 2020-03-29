@@ -5,13 +5,13 @@
  */
 
 const testOccurrence = (arr, value) => {
-    let newArr = [];
+    const newArr = [];
     for (let i = 0; i < arr.length; i++) {
-        if (arr[i] == value) newArr.push(i);
+        if (arr[i] === value) newArr.push(i);
         else newArr;
     }
     return newArr;
-}
+};
 
 
 console.log(testOccurrence([6, 9, 3, 4, 3, 82, 11, 3], 3)) // > [2, 4, 7]
