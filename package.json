@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-essentials-codeleaf",
+  "version": "1.0.0",
+  "description": "Setup a standard Node.js project with essential development tools ",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"*.{js,html,css}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwasu-ng/nodejs-essentials-codeleaf.git"
+  },
+  "author": "Adio Mojeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwasu-ng/nodejs-essentials-codeleaf/issues"
+  },
+  "homepage": "https://github.com/kwasu-ng/nodejs-essentials-codeleaf#readme",
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  }
+}
