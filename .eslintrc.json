@@ -1,5 +1,6 @@
 {
     "extends": ["airbnb-base", "prettier"],
+    "plugins": ["prettier"],
     "parserOptions": {
         "ecmaVersion": 2018
     },
@@ -11,8 +12,8 @@
         "no-var": "error",
         "semi": "off",
         "func-style": "error",
-        "no-console": "off",
+        "no-console": "error",
         "no-unused-expressions": "off",
-        "no-plusplus": "off"
+        "no-plusplus": "error"
     }
 }

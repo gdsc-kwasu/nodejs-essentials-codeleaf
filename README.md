@@ -1,7 +1,7 @@
 # nodejs-essentials-codeleaf
 Setup a standard Node.js project with essential development tools 
 #### Style Guide
-When Wale was started, it make use of the **airbnb style guide**. But wait, what is a **Style Guide**?
+A **Style Guide**?
 **Style Guide** provides rules of how we write Javascript. It helps a team of developer to be consistent with the code they write. It basically deals with things like how you destructure, declare variable, and many other useful guidelines like that. You can find the **[Airbnb Style Guide Rule Here](https://github.com/airbnb/javascript)**, read it (not everything), and as you try and write code with it, you get familiar with it.
 
 #### Linting
